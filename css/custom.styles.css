@@ -1,0 +1,53 @@
+#top-nav{
+background-color: maroon;	
+}
+
+
+#left-col{
+
+	background-color: maroon;
+	height :100%;
+}
+
+
+#middle-col{
+
+	background-color:;
+}
+
+#bq{
+
+	font-size: 15px;
+}
+
+#right-col{
+
+	background-color: maroon;
+	height: 100%;
+}
+
+#img{
+	border:1px solid maroon;
+}
+
+#nav-top{
+
+margin-left:50%;
+}
+
+#eng{
+margin-top:3px;
+}
+
+.btn{
+	background-color: maroon;
+}
+
+#in{
+color:maroon;
+
+}
+
+#ex{
+	color:maroon;
+}

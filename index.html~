@@ -1,0 +1,120 @@
+<html>
+<head>
+<title>Home</title>
+<meta charset="utf-8">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/custom.styles.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <script src="js/bootstrap.js"></script>
+     <script src="js/jquery.js"></script>
+</head>
+
+<body >
+
+</div class ="container">
+
+
+<nav id="top-nav"  class="row">
+		<ul class ="nav nav-tabs" id="nav-top">
+	
+	<li><a href="index.html">Home</a></li>
+	<li><a href="about.html">About</a></li>
+	<li><a href="mission.html">Mission</a></li>
+	<li><a href="mission.html">Health Services</a></li>
+	<li><a href="outreach.html">Out Reach </a></li>
+	<li><a href="contact.html">Contact </a></li>
+	<a id="eng" href="#">English</a>
+	<a id ="deu" href="DEU/index.html">Deu</a>
+	
+</ul>
+  </nav>
+
+
+
+  <div id="left-col"  class="col-md-1 ">
+
+
+  </div>
+
+
+	 <div id="middle-col"  class="col-md-10 ">
+	
+					 	 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel" rows ="2">
+				  <!-- Indicators -->
+				  <ol class="carousel-indicators"> 
+				    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+				    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+				    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+				  </ol>
+
+				  <!-- Wrapper for slides -->
+				  <div class="carousel-inner">
+				    <div class="item active">
+				      <img src="img/pic1.jpg" style="margin-left:45px" alt="Here is Our Home">
+				      <div class="carousel-caption">
+				      	<h2 id="in"><strong>Manna Eye Clinic</strong></h2>
+				      </div>
+				    </div>
+				    <div class="item">
+				      <img src="img/pic2.jpg" alt="...">
+				      <div class="carousel-caption">
+				      	<h3>Labs</h3>
+				      </div>
+				    </div>
+				    <div class="item">
+				      <img src="img/pic3.jpg" alt="...">
+				      <div class="carousel-caption">
+				      	<h3>Staff</h3>
+				      </div>
+				    </div>
+				  </div> 
+
+				  <!-- Controls -->
+				  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+				    <span class="glyphicon glyphicon-chevron-left"></span>
+				  </a>
+				  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+				    <span class="glyphicon glyphicon-chevron-right"></span>
+				  </a>
+				</div>   <!--End carousel-->
+
+			
+		</br>
+
+				<marquee><strong style="color:maroon">We are open on Monday through Friday 8:00 AM to 2:30 PM and on weekends from 8:00 AM to 12:00 PM </strong></marquee>
+		</br>
+
+
+			<blockquote class ="col-md-4">
+			<img id="img" src= "img/02.jpg"></img></br>
+			  <p id="bq">For more than 30 years, the German ophthalmologist <strong>Dr. Elisabeth Herz </strong>has been working in Cameroon. 				In April 2003 she started to build up an ophthalmic clinic in Nkongsamba. Nkongsamba is a city in the 				Littoral region of the country, about 130 km north of the economic metropolis Doula.<button class="btn btn-success">Read More>> 				</p> 
+			</blockquote>
+
+			
+			<blockquote class ="col-md-4">
+			<img id="img" src= "img/pic06.jpg"></img></br>
+							  <p id="bq">To reach the remote, now 26 branch offices, which are regularly visited, a jeep was 					purchased. With the help of German optician also an optical workshop was set up. Even today come some German 				<button class="btn btn-success">Read More>>
+				</p> 
+			</blockquote>
+			
+			<blockquote class ="col-md-4">
+			<img id="img" src= "img/01.jpg"></img></br>
+			  <p id="bq">Over many years, when new financial funds were available, new buildings have been set up, equipped with treatment 				rooms, an optical workshop, the administration, the production plant of eye drops and the storage. That gives the external 				conditions for a successful medical treatment.<button class="btn btn-success">Read More>></button></p> 
+			</blockquote>
+
+			<div class="col-md-10">
+		<footer>   <marquee> We are Located in Nkongsamba Moungo Division about 300 metres from the Central Town below the Cathedral</marquee></footer>
+			</div>
+  </div> <!--End middle-col-->
+
+	
+
+  <div id="right-col"  class="col-md-1 ">
+
+
+  </div>
+
+
+		</div>
+</body>
+</html>

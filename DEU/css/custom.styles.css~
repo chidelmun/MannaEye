@@ -1,0 +1,31 @@
+#top-nav{
+background-color: maroon;	
+}
+
+
+#left-col{
+
+	background-color: maroon;
+	height :100%;
+}
+
+
+#middle-col{
+
+	background-color:;
+}
+
+#right-col{
+
+	background-color: violet;
+	height: 100%;
+}
+
+#nav-top{
+
+margin-left:50%;
+}
+
+#eng{
+margin-top:3px;
+}
